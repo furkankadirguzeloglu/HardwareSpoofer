@@ -5,6 +5,3 @@ Hardware Spoofer for Windows
 ## Built With
 * [btbd\hwid](https://github.com/btbd/hwid)
 * [Xiloe\NULL-CPP-SPOOFER](https://github.com/Xiloe/NULL-CPP-SPOOFER)
-
-## Authors
-* [Majdev](https://github.com/inc-Majdev) [Coding]
